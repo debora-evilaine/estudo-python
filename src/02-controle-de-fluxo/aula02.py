@@ -92,7 +92,7 @@ NOTA1_VALIDA = 0 <= n1 <= 10
 NOTA2_VALIDA = 0 <= n2 <= 10
 
 if NOTA1_VALIDA and NOTA2_VALIDA:
-        media = n1 + n2 / 2
+        media = (n1 + n2) / 2
         if media >= 6:
                 print('Aprovado!')
         elif media >=4:

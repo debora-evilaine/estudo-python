@@ -15,3 +15,4 @@ elif id[2] == '0' and id[3] == '0' and id[4] == '0' and id[5] == '0':
     print('Erros do identificador: não apesenta números inteiros entre 0001 e 9999')
 else:
     print('ID válido!')
+adicionar todos os problemas em uma lista

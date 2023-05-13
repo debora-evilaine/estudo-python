@@ -13,10 +13,12 @@ meses_do_ano = {
     12: "dezembro"
 
 }
+resultado = ''
 mes = int(input('Entre com o número do mês: '))
-resultado = meses_do_ano[mes]
+if mes <= 0 or mes >= 13:
+    print('Esse mês não existe!')
+else:
+    resultado = meses_do_ano[mes]
 print(resultado)
-        
-# aplicar for para quando o usuário digitar um número inválido!!
         
         

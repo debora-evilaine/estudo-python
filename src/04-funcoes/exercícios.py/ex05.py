@@ -1,5 +1,5 @@
 peso, altura = float(input('Entre com o seu peso: ')), float(input('Entre com a sua altura: '))
-
+breakpoint()
 individuo ={
     'peso': peso,
     'altura': altura

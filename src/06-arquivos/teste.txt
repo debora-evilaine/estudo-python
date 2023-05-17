@@ -1,7 +1,0 @@
-python
-javascript
-java
-c#
-node
-r
-golang

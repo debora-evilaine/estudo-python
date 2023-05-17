@@ -3,7 +3,6 @@
 
 
 def soma(*args):
-    breakpoint()
     somar = 0
     for arg in args:
         somar = somar+ arg

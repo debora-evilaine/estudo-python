@@ -4,7 +4,7 @@ def carregar_dados_alunos(arquivo):
     for linha in arquivo.readlines():
         linha = linha.split(',')
         dados.append(linha)
-        
+        print(linha)
     dados_totais=[]
     
     for dado in dados:

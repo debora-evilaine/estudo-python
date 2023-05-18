@@ -12,5 +12,5 @@ def carregar_dados_alunos(arquivo):
         return tuple(dados_totais)
     print(dados_totais)
             
-with open('arquivo_projetos.txt', 'r', encoding='utf-8') as arquivo:
-    carregar_dados_alunos(arquivo)
+with open('arquivo_projetos.txt', 'r', encoding='utf-8') as arquivo_real:
+    carregar_dados_alunos(arquivo_real)

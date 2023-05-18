@@ -12,7 +12,7 @@ def carregar_dados_alunos(arquivo):
         return tuple(dados_totais)
     print(dados_totais)
             
-with open('src/06/arquivos/arquivo_de_dados.txt', 'r', encoding = 'utf-8') as dados_reais:
+with open('/home/evildeb/estudo-python/src/06/arquivos/arquivo_de_dados.txt', 'r', encoding = 'utf-8') as dados_reais:
     carregar_dados_alunos(dados_reais)
 
 

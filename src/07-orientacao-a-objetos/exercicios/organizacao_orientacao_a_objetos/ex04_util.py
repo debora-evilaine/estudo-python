@@ -31,14 +31,6 @@ class Projeto:
         return f'O código é {self.codigo}, o projeto é {self.titulo}, o responsável é {self.responsavel}'
 
 
-projeto1 = Projeto(9, 'Laboratório de Desenvolvimento de Software','Pedro Gomes','15 de novembro, 2 de maio, Maria')
-projeto1.exibir_a_lista()
-projeto2 = Projeto(20, 'Laboratório de Química', 'Emanuel de Souza','2 de fereveiro, 9 de abril, João')
-projeto2.exibir_a_lista()
-
-
-print(projeto1)
-print(projeto2)
 
 
     

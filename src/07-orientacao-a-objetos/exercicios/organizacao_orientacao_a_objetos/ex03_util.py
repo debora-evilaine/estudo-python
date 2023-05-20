@@ -16,5 +16,3 @@ class Participacao:
         
 #segundo passo: criar objeto aluno
 
-aluno1 = Participacao(1, '10 de maio', '15 de dezembro', 'Maria Martins', 'Laboratório de física')
-print(aluno1)

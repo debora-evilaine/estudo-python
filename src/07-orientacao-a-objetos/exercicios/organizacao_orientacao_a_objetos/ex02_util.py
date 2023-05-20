@@ -43,16 +43,6 @@ class Projeto:
     def __str__(self):
         return f'O código é {self.codigo}, o projeto é {self.titulo} e o responsável é {self.responsavel}'
 
-# terceiro passo: criar objeto "projeto"
-projeto1 = Projeto(9, 'Laboratório de Desenvolvimento de Software','Pedro Gomes')
-projeto2 = Projeto(20, 'Laboratório de Química', 'Emanuel de Souza')
-
-# checando se os projetos são os mesmos...
-if projeto1.codigo == projeto2.codigo:
-    print('Os projetos são os mesmos!')
-else:
-    print(projeto1)
-    print(projeto2)
 
     
     

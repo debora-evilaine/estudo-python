@@ -3,7 +3,7 @@
 import ex01_util
 
 aluno1 = ex01_util.Aluno('SP0101', 'João da Silva', 'joao@email.com')
-aluno2 = ex01_util.Aluno('', 'Maria da Silva', 'maria@email.com')
+aluno2 = ex01_util.Aluno('9', 'Maria da Silva', 'maria@email.com')
 
 # comparando se os alunos são iguais ou diferentes.....
 

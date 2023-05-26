@@ -1,0 +1,12 @@
+SP0101,João da Silva,maria@gmail.com
+SP3120741,Débora Evilaine Sousa Moreira,d.moreira@aluno.ifsp.edu.br
+SP0101,João da Silva,joao@email.com
+SP0101,João da Silva,joao@email.com
+SP0101,João da Silva,maria@gmail.com
+SP0101,João da Silva,maria@gmail.com
+SP3120741,Débora Evilaine Sousa Moreira,d.moreira@aluno.ifsp.edu.br
+SP3120741,SP3120741,SP3120741
+SP3120741,SP3120741,SP3120741
+SP3120741,SP3120741,SP3120741
+SP3120741,Débora Evilaine Sousa Moreira,d.moreira@aluno.ifsp.edu.br
+SP3120741,Débora Evilaine Sousa Moreira,d.moreira@aluno.ifsp.edu.br
